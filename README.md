@@ -1,1 +1,1 @@
-"# angular-master-detail" 
+# angular-master-detail
